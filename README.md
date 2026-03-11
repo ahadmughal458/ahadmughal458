@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Ahad Mughal 👋
 
-<!--
-**ahadmughal458/ahadmughal458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Website Developer** who works on both **Frontend and Backend**.  
+I like building websites and learning new technologies.
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Frontend Development
+- Backend Development
+- Full-Stack Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎬 Other Skills
+- Basic Video Editing
+- Cinematic Edits
+- YouTube Intro Creation
+
+## 🚀 What I'm Working On
+- Building web projects
+- Improving my coding skills
+- Creating cinematic video edits
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ahadmughal458
