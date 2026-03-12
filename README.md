@@ -1,4 +1,4 @@
-# Hi, I'm Ahad Mughal 👋
+# Hi, I'm Ahad Mughal
 
 I'm a **Website Developer** who works on both **Frontend and Backend**.  
 I like building websites and learning new technologies.
